@@ -9,7 +9,7 @@ body{
 }
 
 .container{
-    max-width: 400px;
+    max-width: 500px;
     margin: 300x auto;
     position:absolute;
     top: 50%;
@@ -28,7 +28,7 @@ body{
     height: 65px;
     border-radius: 100%;
     background-color: white;
-    margin: 5px;
+    margin: 8px;
     
 }
 
